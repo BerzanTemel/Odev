@@ -22,7 +22,7 @@ int main() {
 
     int min = find_min(arr, n);
 
-    printf("En kucuk eleman: %d", min);
+    printf("Dizinin en kucuk elemanı: %d", min);
 
     return 0;
 
